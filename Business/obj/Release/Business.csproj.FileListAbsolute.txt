@@ -1,0 +1,103 @@
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Business.dll.config
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Business.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Business.pdb
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\BackEnd.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.barcodes.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.bouncy-castle-connector.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.commons.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.forms.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.io.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.kernel.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.layout.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.pdfa.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.pdfua.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.sign.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.styledxmlparser.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.svg.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.Logging.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.Options.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Newtonsoft.Json.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Buffers.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Memory.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Numerics.Vectors.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.ValueTuple.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\BackEnd.pdb
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\BackEnd.dll.config
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.barcodes.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.bouncy-castle-connector.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.commons.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.forms.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.io.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.kernel.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.layout.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.pdfa.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.pdfua.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.sign.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.styledxmlparser.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\itext.svg.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.Logging.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.Options.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\Newtonsoft.Json.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Buffers.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Memory.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Numerics.Vectors.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\bin\Release\System.ValueTuple.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\obj\Release\Business.csproj.AssemblyReference.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\obj\Release\Business.csproj.CoreCompileInputs.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\obj\Release\Business.csproj.CopyComplete
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\obj\Release\Business.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\Business\obj\Release\Business.pdb
+C:\Users\Asus\Desktop\POS\Business\bin\Release\Business.dll.config
+C:\Users\Asus\Desktop\POS\Business\bin\Release\Business.dll
+C:\Users\Asus\Desktop\POS\Business\bin\Release\Business.pdb
+C:\Users\Asus\Desktop\POS\Business\bin\Release\BackEnd.dll
+C:\Users\Asus\Desktop\POS\Business\bin\Release\System.Buffers.dll
+C:\Users\Asus\Desktop\POS\Business\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Asus\Desktop\POS\Business\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\POS\Business\bin\Release\System.ValueTuple.dll
+C:\Users\Asus\Desktop\POS\Business\bin\Release\BackEnd.pdb
+C:\Users\Asus\Desktop\POS\Business\bin\Release\BackEnd.dll.config
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.barcodes.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.bouncy-castle-connector.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.commons.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.forms.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.io.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.kernel.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.layout.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.pdfa.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.pdfua.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.sign.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.styledxmlparser.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\itext.svg.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\System.Memory.xml
+C:\Users\Asus\Desktop\POS\Business\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Desktop\POS\Business\obj\Release\Business.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\POS\Business\obj\Release\Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\POS\Business\obj\Release\Business.csproj.CopyComplete
+C:\Users\Asus\Desktop\POS\Business\obj\Release\Business.dll
+C:\Users\Asus\Desktop\POS\Business\obj\Release\Business.pdb

@@ -1,0 +1,471 @@
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.AssemblyReference.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.SuggestedBindingRedirects.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmDashBoard.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmProductReview.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmSalesRate.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cards.frmCard.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmShowsSuppliers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmShowsUser.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.Payments.frmPaymentAmount.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Categories.AddCategory.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Customers.frmAddEditCustomers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Customers.frmShowAllCustomers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmDebtCustomer.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmPaymentDebt.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmShowDebtCustomers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmShowInvoiceDetails.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Employees.frmAddEditEmployees.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Employees.frmShowAllEmployees.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmHome.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmIntro.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmLogin.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmSharedLayoutTop.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmMessage.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptCashInvoiceSales.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptCreateBarcodeInvoice.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptDebtInvoiceSales.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptInvoicPuy.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptDebtPaymentInvoice.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptReturnDebtInvoiceSales.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptReturnCashInvoiceSales.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmAddNewQty.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmEditQty.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmAddEditProducts.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmShowAllCategories.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmPaymentDebtInvoice.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmReturnItems.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmShowAllProducts.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.ReturnInvoice.frmShowAllInvoices.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Salespeople.frmSalesCacherScreen.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Salespeople.frmShowsCustomer.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmConnectionInformation.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmCreateBackUpDB.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmLoginHistory.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmProfileStock.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmRestoreBackUpDB.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmSetting.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmTasbihs.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Suppliers.frmAddEditSuppliers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Suppliers.frmShowAllSuppliers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Users.frmAddEditDelPermissions.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Users.frmAddEditUsers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmShowAllUsers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Properties.Resources.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.GenerateResource.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe.licenses
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.CoreCompileInputs.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\System_C_Sharp_SuperMarket\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.pdb
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmDashBoard.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmProductReview.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmSalesRate.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cards.frmCard.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmShowsSuppliers.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmShowsUser.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.Payments.frmPaymentAmount.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Categories.AddCategory.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Customers.frmAddEditCustomers.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Customers.frmShowAllCustomers.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmDebtCustomer.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmPaymentDebt.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmShowDebtCustomers.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmShowInvoiceDetails.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Employees.frmAddEditEmployees.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Employees.frmShowAllEmployees.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmHome.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmIntro.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmLogin.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmSharedLayoutTop.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmMessage.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptCashInvoiceSales.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptCreateBarcodeInvoice.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptDebtInvoiceSales.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptInvoicPuy.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptDebtPaymentInvoice.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptReturnDebtInvoiceSales.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptReturnCashInvoiceSales.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmAddNewQty.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmEditQty.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmAddEditProducts.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmShowAllCategories.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmPaymentDebtInvoice.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmReturnItems.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmShowAllProducts.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.ReturnInvoice.frmShowAllInvoices.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Salespeople.frmSalesCacherScreen.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Salespeople.frmShowsCustomer.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmConnectionInformation.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmCreateBackUpDB.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmLoginHistory.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmProfileStock.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmRestoreBackUpDB.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmSetting.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmTasbihs.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Suppliers.frmAddEditSuppliers.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Suppliers.frmShowAllSuppliers.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Users.frmAddEditDelPermissions.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Users.frmAddEditUsers.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmShowAllUsers.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Properties.Resources.resources
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe.licenses
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.pdb
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe.config
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe.manifest
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System_C_Sharp_SuperMarket_DB_MISS.application
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System_C_Sharp_SuperMarket_DB_MISS.pdb
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Business.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Charts.v24.1.Core.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Data.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Drawing.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Office.v24.1.Core.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.PivotGrid.v24.1.Core.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.RichEdit.v24.1.Export.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Utils.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Utils.v24.1.UI.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraCharts.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraGauges.v24.1.Core.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraReports.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraReports.v24.1.Extensions.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Memory.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\zxing.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\zxing.presentation.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\BackEnd.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraBars.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraRichEdit.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.DataAccess.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.DataVisualization.v24.1.Core.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Xpo.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.CodeParser.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.DataAccess.v24.1.UI.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraNavBar.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraCharts.v24.1.Wizard.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraPivotGrid.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraCharts.v24.1.Extensions.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.commons.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.kernel.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.layout.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.io.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Images.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraDiagram.v24.1.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Diagram.v24.1.Core.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\stdole.dll
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Business.pdb
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Business.dll.config
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Charts.v24.1.Core.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Data.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Drawing.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Office.v24.1.Core.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.PivotGrid.v24.1.Core.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Utils.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Utils.v24.1.UI.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraCharts.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraGauges.v24.1.Core.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraReports.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraReports.v24.1.Extensions.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Memory.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\zxing.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\zxing.presentation.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\BackEnd.pdb
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\BackEnd.dll.config
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraBars.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraRichEdit.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.DataAccess.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Xpo.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.DataAccess.v24.1.UI.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraNavBar.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraCharts.v24.1.Wizard.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraPivotGrid.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.commons.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.kernel.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.layout.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.io.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraDiagram.v24.1.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Diagram.v24.1.Core.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe.manifest
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.application
+C:\Users\Asus\Desktop\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.CopyComplete
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.AssemblyReference.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.SuggestedBindingRedirects.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmDashBoard.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmProductReview.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmSalesRate.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cards.frmCard.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmShowsSuppliers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.frmShowsUser.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Cacher.Payments.frmPaymentAmount.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Categories.AddCategory.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Customers.frmAddEditCustomers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Customers.frmShowAllCustomers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmDebtCustomer.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmPaymentDebt.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmShowDebtCustomers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.DebtCustomers.frmShowInvoiceDetails.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Employees.frmAddEditEmployees.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Employees.frmShowAllEmployees.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmHome.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmIntro.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmLogin.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmSharedLayoutTop.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmMessage.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptCashInvoiceSales.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptCreateBarcodeInvoice.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptDebtInvoiceSales.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptInvoicPuy.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptDebtPaymentInvoice.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptReturnDebtInvoiceSales.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Invoices.rptReturnCashInvoiceSales.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmAddNewQty.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmEditQty.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmAddEditProducts.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmShowAllCategories.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmPaymentDebtInvoice.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmReturnItems.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmShowAllProducts.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.ReturnInvoice.frmShowAllInvoices.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Salespeople.frmSalesCacherScreen.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Salespeople.frmShowsCustomer.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmConnectionInformation.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmCreateBackUpDB.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmLoginHistory.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmProfileStock.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmRestoreBackUpDB.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmSetting.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Settings.frmTasbihs.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Suppliers.frmAddEditSuppliers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Suppliers.frmShowAllSuppliers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Users.frmAddEditDelPermissions.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Users.frmAddEditUsers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.frmShowAllUsers.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Properties.Resources.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.GenerateResource.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe.licenses
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.pdb
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe.config
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe.manifest
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System_C_Sharp_SuperMarket_DB_MISS.application
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System_C_Sharp_SuperMarket_DB_MISS.pdb
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Business.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.Shared.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Charts.v24.1.Core.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Data.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Drawing.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Office.v24.1.Core.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.PivotGrid.v24.1.Core.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.RichEdit.v24.1.Export.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Utils.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Utils.v24.1.UI.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraCharts.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraGauges.v24.1.Core.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraReports.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraReports.v24.1.Extensions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Options.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Newtonsoft.Json.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Buffers.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Memory.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Numerics.Vectors.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.ValueTuple.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\zxing.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\zxing.presentation.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\BackEnd.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.styledxmlparser.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraBars.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraRichEdit.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.DataAccess.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.DataVisualization.v24.1.Core.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Xpo.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.CodeParser.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.DataAccess.v24.1.UI.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraNavBar.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraCharts.v24.1.Wizard.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraPivotGrid.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraCharts.v24.1.Extensions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.commons.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.kernel.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.layout.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.io.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Images.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraDiagram.v24.1.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Diagram.v24.1.Core.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.bouncy-castle-connector.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\stdole.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Business.pdb
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Business.dll.config
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Charts.v24.1.Core.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Data.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Drawing.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Office.v24.1.Core.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.PivotGrid.v24.1.Core.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Utils.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Utils.v24.1.UI.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraCharts.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraGauges.v24.1.Core.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraReports.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraReports.v24.1.Extensions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Options.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\Newtonsoft.Json.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Buffers.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Memory.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Numerics.Vectors.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\System.ValueTuple.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\zxing.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\zxing.presentation.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\BackEnd.pdb
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\BackEnd.dll.config
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.styledxmlparser.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraBars.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraRichEdit.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.DataAccess.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Xpo.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.DataAccess.v24.1.UI.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraNavBar.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraCharts.v24.1.Wizard.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraPivotGrid.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.commons.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.kernel.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.layout.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.io.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.XtraDiagram.v24.1.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\DevExpress.Diagram.v24.1.Core.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\bin\Debug\itext.bouncy-castle-connector.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.CoreCompileInputs.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.exe.manifest
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.application
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.csproj.CopyComplete
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\System_C_Sharp_SuperMarket_DB_MISS\obj\Debug\System_C_Sharp_SuperMarket_DB_MISS.Products.frmProductsRestrictRequest.resources

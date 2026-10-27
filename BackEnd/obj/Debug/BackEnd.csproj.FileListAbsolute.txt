@@ -1,0 +1,202 @@
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\obj\Debug\BackEnd.csproj.AssemblyReference.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\BackEnd.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\BackEnd.pdb
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\obj\Debug\BackEnd.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\obj\Debug\BackEnd.pdb
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\BackEnd.dll.config
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.barcodes.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.bouncy-castle-connector.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.commons.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.forms.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.io.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.kernel.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.layout.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.pdfa.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.pdfua.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.sign.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.styledxmlparser.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.svg.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.Options.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Newtonsoft.Json.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Buffers.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Memory.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Numerics.Vectors.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.ValueTuple.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.barcodes.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.bouncy-castle-connector.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.commons.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.forms.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.io.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.kernel.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.layout.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.pdfa.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.pdfua.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.sign.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.styledxmlparser.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\itext.svg.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.Options.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\Newtonsoft.Json.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Buffers.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Memory.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Numerics.Vectors.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\bin\Debug\System.ValueTuple.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\obj\Debug\BackEnd.Properties.Resources.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\BackEnd\obj\Debug\BackEnd.csproj.GenerateResource.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\BackEnd.dll.config
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\BackEnd.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\BackEnd.pdb
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.barcodes.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.bouncy-castle-connector.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.commons.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.forms.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.io.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.kernel.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.layout.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.pdfa.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.pdfua.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.sign.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.styledxmlparser.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.svg.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.Options.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Newtonsoft.Json.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Buffers.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Memory.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Numerics.Vectors.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.ValueTuple.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.barcodes.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.bouncy-castle-connector.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.commons.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.forms.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.io.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.kernel.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.layout.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.pdfa.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.pdfua.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.sign.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.styledxmlparser.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\itext.svg.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.Options.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\Newtonsoft.Json.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Buffers.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Memory.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Numerics.Vectors.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\bin\Debug\System.ValueTuple.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\obj\Debug\BackEnd.csproj.AssemblyReference.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\obj\Debug\BackEnd.Properties.Resources.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\obj\Debug\BackEnd.csproj.GenerateResource.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\obj\Debug\BackEnd.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.barcodes.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.commons.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.forms.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.io.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.kernel.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.layout.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.pdfa.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.pdfua.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.sign.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\itext.svg.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\System.Memory.xml
+C:\Users\Asus\Desktop\POS\BackEnd\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Desktop\POS\BackEnd\obj\Debug\BackEnd.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\POS\BackEnd\obj\Debug\BackEnd.Properties.Resources.resources
+C:\Users\Asus\Desktop\POS\BackEnd\obj\Debug\BackEnd.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\POS\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\POS\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\Asus\Desktop\POS\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\Asus\Desktop\POS\BackEnd\obj\Debug\BackEnd.pdb
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\BackEnd.dll.config
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\BackEnd.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\BackEnd.pdb
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\System.Buffers.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\System.Numerics.Vectors.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\System.ValueTuple.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.barcodes.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.bouncy-castle-connector.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.commons.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.forms.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.io.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.kernel.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.layout.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.pdfa.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.pdfua.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.sign.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.styledxmlparser.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\itext.svg.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\Microsoft.Extensions.Options.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\Newtonsoft.Json.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\System.Memory.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\obj\Debug\BackEnd.csproj.AssemblyReference.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\obj\Debug\BackEnd.Properties.Resources.resources
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\obj\Debug\BackEnd.csproj.GenerateResource.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\obj\Debug\BackEnd.dll
+D:\AllProjects\ProjectC++\خارطة_الطريق_لتكون_مبرمج_ناجح\Cource19\خاصة بالكورس السابق\POS\BackEnd\obj\Debug\BackEnd.pdb
