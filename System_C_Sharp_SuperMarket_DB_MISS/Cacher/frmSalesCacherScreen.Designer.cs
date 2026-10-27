@@ -157,8 +157,8 @@
             // 
             // button1
             // 
-            button1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            button1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             button1.BackColor = System.Drawing.Color.Transparent;
             button1.BackgroundImage = global::System_C_Sharp_SuperMarket_DB_MISS.Properties.Resources.pluse;
@@ -177,8 +177,8 @@
             // 
             // btnIconWaitingInvoice
             // 
-            btnIconWaitingInvoice.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            btnIconWaitingInvoice.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             btnIconWaitingInvoice.BackColor = System.Drawing.Color.Transparent;
             btnIconWaitingInvoice.BackgroundImage = global::System_C_Sharp_SuperMarket_DB_MISS.Properties.Resources.waitingInvoice;
@@ -202,8 +202,8 @@
             this.dgvShowProducts.AllowUserToDeleteRows = false;
             this.dgvShowProducts.AllowUserToResizeColumns = false;
             this.dgvShowProducts.AllowUserToResizeRows = false;
-            this.dgvShowProducts.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.dgvShowProducts.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvShowProducts.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvShowProducts.BackgroundColor = System.Drawing.SystemColors.InactiveBorder;
@@ -342,7 +342,7 @@
             // 
             // panel7
             // 
-            this.panel7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.panel7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.panel7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
@@ -536,7 +536,7 @@
             // tabControl1
             // 
             this.tabControl1.Alignment = System.Windows.Forms.TabAlignment.Left;
-            this.tabControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.tabControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
@@ -561,7 +561,7 @@
             this.tabPage1.BackColor = System.Drawing.Color.White;
             this.tabPage1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.tabPage1.Controls.Add(this.flowLayoutPanel1);
-            this.tabPage1.ForeColor = System.Drawing.Color.MidnightBlue;
+            this.tabPage1.ForeColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.tabPage1.ImageIndex = 7;
             this.tabPage1.Location = new System.Drawing.Point(32, 4);
             this.tabPage1.Name = "tabPage1";
@@ -586,7 +586,7 @@
             // 
             this.tabPage2.BackColor = System.Drawing.Color.White;
             this.tabPage2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.tabPage2.ForeColor = System.Drawing.Color.MidnightBlue;
+            this.tabPage2.ForeColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.tabPage2.ImageIndex = 7;
             this.tabPage2.Location = new System.Drawing.Point(32, 4);
             this.tabPage2.Margin = new System.Windows.Forms.Padding(0);
@@ -637,7 +637,7 @@
             // 
             // panel6
             // 
-            this.panel6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            this.panel6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel6.BackColor = System.Drawing.Color.White;
             this.panel6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
@@ -652,7 +652,7 @@
             // 
             // btnRestoreInvoice
             // 
-            this.btnRestoreInvoice.BackColor = System.Drawing.Color.LightSlateGray;
+            this.btnRestoreInvoice.BackColor = System.Drawing.Color.FromArgb(96, 115, 137);
             this.btnRestoreInvoice.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnRestoreInvoice.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRestoreInvoice.Font = new System.Drawing.Font("Segoe UI", 9.5F, System.Drawing.FontStyle.Bold);
@@ -682,11 +682,11 @@
             // 
             // btnPay
             // 
-            this.btnPay.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.btnPay.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
             | System.Windows.Forms.AnchorStyles.Left)));
             this.btnPay.BackColor = System.Drawing.Color.Transparent;
             this.btnPay.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnPay.FlatAppearance.BorderColor = System.Drawing.Color.ForestGreen;
+            this.btnPay.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(22, 134, 83);
             this.btnPay.FlatAppearance.BorderSize = 3;
             this.btnPay.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPay.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
@@ -701,10 +701,10 @@
             // 
             // btnPayPrint
             // 
-            this.btnPayPrint.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.btnPayPrint.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnPayPrint.BackColor = System.Drawing.Color.ForestGreen;
+            this.btnPayPrint.BackColor = System.Drawing.Color.FromArgb(22, 134, 83);
             this.btnPayPrint.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnPayPrint.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPayPrint.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
@@ -719,7 +719,7 @@
             // 
             // panel5
             // 
-            this.panel5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.panel5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
             | System.Windows.Forms.AnchorStyles.Left)));
             this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel5.Controls.Add(this.panel8);
@@ -732,7 +732,7 @@
             // 
             // panel8
             // 
-            this.panel8.BackColor = System.Drawing.Color.MidnightBlue;
+            this.panel8.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.panel8.Controls.Add(button1);
             this.panel8.Controls.Add(this.txtTotalPriceFinal);
             this.panel8.Controls.Add(this.label11);
@@ -769,7 +769,7 @@
             // 
             // groupBox3
             // 
-            this.groupBox3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.groupBox3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox3.Controls.Add(this.txtCalculate);
             this.groupBox3.Controls.Add(this.panel9);
@@ -819,7 +819,7 @@
             // btnCalc0
             // 
             this.btnCalc0.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCalc0.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCalc0.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.btnCalc0.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCalc0.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnCalc0.ForeColor = System.Drawing.Color.White;
@@ -835,7 +835,7 @@
             // btnCalc1
             // 
             this.btnCalc1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCalc1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCalc1.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.btnCalc1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCalc1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnCalc1.ForeColor = System.Drawing.Color.White;
@@ -851,7 +851,7 @@
             // btnCalc4
             // 
             this.btnCalc4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCalc4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCalc4.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.btnCalc4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCalc4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnCalc4.ForeColor = System.Drawing.Color.White;
@@ -867,7 +867,7 @@
             // btnCalc7
             // 
             this.btnCalc7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCalc7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCalc7.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.btnCalc7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCalc7.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnCalc7.ForeColor = System.Drawing.Color.White;
@@ -883,7 +883,7 @@
             // btnCalcClear
             // 
             this.btnCalcClear.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCalcClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCalcClear.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.btnCalcClear.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCalcClear.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCalcClear.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
@@ -899,7 +899,7 @@
             // btnCalcEqule
             // 
             this.btnCalcEqule.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCalcEqule.BackColor = System.Drawing.Color.SeaGreen;
+            this.btnCalcEqule.BackColor = System.Drawing.Color.FromArgb(22, 134, 83);
             this.btnCalcEqule.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCalcEqule.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCalcEqule.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold);
@@ -915,7 +915,7 @@
             // btnCal2
             // 
             this.btnCal2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCal2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCal2.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.btnCal2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCal2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnCal2.ForeColor = System.Drawing.Color.White;
@@ -931,7 +931,7 @@
             // btnCalc3
             // 
             this.btnCalc3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCalc3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCalc3.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.btnCalc3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCalc3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnCalc3.ForeColor = System.Drawing.Color.White;
@@ -947,7 +947,7 @@
             // btnCalc5
             // 
             this.btnCalc5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCalc5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCalc5.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.btnCalc5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCalc5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnCalc5.ForeColor = System.Drawing.Color.White;
@@ -963,7 +963,7 @@
             // btnCalc6
             // 
             this.btnCalc6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCalc6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCalc6.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.btnCalc6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCalc6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnCalc6.ForeColor = System.Drawing.Color.White;
@@ -979,7 +979,7 @@
             // btnCalc8
             // 
             this.btnCalc8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCalc8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCalc8.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.btnCalc8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCalc8.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnCalc8.ForeColor = System.Drawing.Color.White;
@@ -995,7 +995,7 @@
             // btnCalc9
             // 
             this.btnCalc9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCalc9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCalc9.BackColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.btnCalc9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCalc9.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnCalc9.ForeColor = System.Drawing.Color.White;
@@ -1028,8 +1028,8 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox1.Controls.Add(this.label10);
             this.groupBox1.Controls.Add(this.label9);
@@ -1067,9 +1067,9 @@
             // 
             // label2
             // 
-            this.label2.BackColor = System.Drawing.Color.AliceBlue;
+            this.label2.BackColor = System.Drawing.Color.FromArgb(242, 245, 250);
             this.label2.Font = new System.Drawing.Font("Segoe UI Black", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.Blue;
+            this.label2.ForeColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.label2.Location = new System.Drawing.Point(86, 16);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(163, 38);
@@ -1091,7 +1091,7 @@
             this.txtTotalPriceAfterTax.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.txtTotalPriceAfterTax.BackColor = System.Drawing.Color.White;
             this.txtTotalPriceAfterTax.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.txtTotalPriceAfterTax.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.txtTotalPriceAfterTax.ForeColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.txtTotalPriceAfterTax.Location = new System.Drawing.Point(4, 125);
             this.txtTotalPriceAfterTax.Name = "txtTotalPriceAfterTax";
             this.txtTotalPriceAfterTax.ReadOnly = true;
@@ -1102,10 +1102,10 @@
             // txtCountItems
             // 
             this.txtCountItems.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtCountItems.BackColor = System.Drawing.Color.LavenderBlush;
+            this.txtCountItems.BackColor = System.Drawing.Color.FromArgb(242, 245, 250);
             this.txtCountItems.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtCountItems.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.txtCountItems.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.txtCountItems.ForeColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.txtCountItems.Location = new System.Drawing.Point(4, 16);
             this.txtCountItems.Multiline = true;
             this.txtCountItems.Name = "txtCountItems";
@@ -1119,7 +1119,7 @@
             this.txtTotalTax.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.txtTotalTax.BackColor = System.Drawing.Color.White;
             this.txtTotalTax.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.txtTotalTax.ForeColor = System.Drawing.Color.MidnightBlue;
+            this.txtTotalTax.ForeColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.txtTotalTax.Location = new System.Drawing.Point(4, 92);
             this.txtTotalTax.Name = "txtTotalTax";
             this.txtTotalTax.ReadOnly = true;
@@ -1132,7 +1132,7 @@
             this.txtTotalPriceBeforTax.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.txtTotalPriceBeforTax.BackColor = System.Drawing.Color.White;
             this.txtTotalPriceBeforTax.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.txtTotalPriceBeforTax.ForeColor = System.Drawing.Color.RoyalBlue;
+            this.txtTotalPriceBeforTax.ForeColor = System.Drawing.Color.FromArgb(23, 59, 103);
             this.txtTotalPriceBeforTax.Location = new System.Drawing.Point(4, 59);
             this.txtTotalPriceBeforTax.Name = "txtTotalPriceBeforTax";
             this.txtTotalPriceBeforTax.ReadOnly = true;
@@ -1142,9 +1142,9 @@
             // 
             // panel4
             // 
-            this.panel4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.panel4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel4.BackColor = System.Drawing.Color.GhostWhite;
+            this.panel4.BackColor = System.Drawing.Color.FromArgb(242, 245, 250);
             this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel4.Controls.Add(this.label6);
             this.panel4.Controls.Add(this.txtProductBarcode);
@@ -1182,9 +1182,9 @@
             // 
             // pnlCenter
             // 
-            this.pnlCenter.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.pnlCenter.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.pnlCenter.BackColor = System.Drawing.Color.GhostWhite;
+            this.pnlCenter.BackColor = System.Drawing.Color.FromArgb(242, 245, 250);
             this.pnlCenter.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pnlCenter.Controls.Add(this.txtQty);
             this.pnlCenter.Controls.Add(this.btnClearTable);
@@ -1202,7 +1202,7 @@
             // 
             // txtQty
             // 
-            this.txtQty.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.txtQty.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtQty.BackColor = System.Drawing.Color.White;
             this.txtQty.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
